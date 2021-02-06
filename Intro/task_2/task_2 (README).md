@@ -8,5 +8,5 @@ centuryFromYear(year) = 20;
 For year = 1700, the output should be
 centuryFromYear(year) = 17.
 
-[input] - integer year.
-[output] - integer.
+[input] - integer
+[output] - integer
