@@ -9,7 +9,6 @@ centuryFromYear(year) = 20;
 For year = 1700, the output should be
 centuryFromYear(year) = 17.
 
-[constraints] - 1 ≤ year ≤ 2005.
 [input] - integer year.
 [output] - integer.
 '''
